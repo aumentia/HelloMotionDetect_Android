@@ -2,7 +2,7 @@ Visual Search Framework
 =======================
 
 <p align="left" >
-  <img src="http://www.aumentia.com/images/sdks/visualsdkandroid.jpg" alt="Aumentia" title="Aumentia">
+  <img src="http://www.aumentia.com/images/sdks/vrbuttonsdk.png" alt="Aumentia" title="Aumentia">
 </p>
 
 * Add visual search to your app.
@@ -58,7 +58,7 @@ repositories {
 
 ```objective-c
 dependencies {
-    compile 'VisualSearchSDK:visualsearchsdk:0.6.0'
+    compile 'VisualSearchSDK:visualsearchsdk:0.7.0'
 }
 ```
 
@@ -91,7 +91,7 @@ dependencies {
 *************************
      VS Framework version
 *************************
-0.5
+0.7
 
 <br>
  
